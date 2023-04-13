@@ -38,12 +38,10 @@ Parameters:
   # For Amplify Console frontend hosting
   Repository:
     Type: String
-    Default: https://github.com/aubvogato/lambda-refarch-webapp/
     Description: GitHub Repository URL
   Branch:
     Type: String
     Description: GitHub Branch
-    Default: aub
   OauthToken:
     Type: String
     Description: GitHub Repository URL
